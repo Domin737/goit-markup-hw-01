@@ -3,4 +3,4 @@
 
 ###### Zadanie domowe #1
 
-Paweł Dominiak <p.dominiak@gmail.com>
+*Paweł Dominiak <p.dominiak@gmail.com>
