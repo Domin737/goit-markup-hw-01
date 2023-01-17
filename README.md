@@ -1,11 +1,9 @@
-# goit-markup-hw-01
+# GoIT - Full Stack Developer
 
-GoIT - Full Stack Developer
+## HTML+CSS Poland [Moduł 1 HTML]
 
-HTML+CSS Poland
+#### Zadanie domowe #1
 
-Moduł 1 HTML
+##### https://domin737.github.io/goit-markup-hw-01/
 
-zadanie domowe #1
-
-Paweł Dominiak <p.dominiak@gmail.com>
+_Paweł Dominiak <p.dominiak@gmail.com>_
