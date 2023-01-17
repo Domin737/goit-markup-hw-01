@@ -1,6 +1,6 @@
 # goit-markup-hw-01
 
-GoIT - Full Stack Developer
+## GoIT - Full Stack Developer
 
 HTML+CSS Poland
 
